@@ -14,8 +14,20 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #eeff03;
+    background-color: #c9ff08;
 }
+
+header .navbar{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    background-color: aliceblue;
+    border-radius: 4px;
+    border-color: grey;
+    padding: 0%;
+
+}
+
 h1, h2, p {
     margin: 0 0 10px;
 }
