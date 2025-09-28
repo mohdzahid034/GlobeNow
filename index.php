@@ -8,7 +8,7 @@
 <body>
     <h1>hello zahid</h1>
     <p>are you ready</p>
-    <h2>hi</h2>
+    <h2>by</h2>
     <a href "https://hpanel.hostinger.com/websites">hostinger</a>
 
     <?php
