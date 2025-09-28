@@ -1,0 +1,21 @@
+/*
+Theme Name: GlobeNow
+Theme URI: http://yourdomain.com
+Author: Your Name
+Author URI: http://yourdomain.com
+Description: The simplest WordPress theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: minimaltheme
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #eeff03;
+}
+h1, h2, p {
+    margin: 0 0 10px;
+}
